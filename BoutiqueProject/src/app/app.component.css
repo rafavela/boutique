@@ -1,0 +1,10 @@
+/* app.component.css */
+.content {
+  padding: 20px;
+  margin-bottom: 50px; /* Ensure space for the footer */
+}
+
+footer {
+  position: relative; /* Remove if using fixed footer */
+  bottom: 0;
+}
